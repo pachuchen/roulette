@@ -1,0 +1,19 @@
+.lottery-sprite, .lottery-game_lottery_actc, .lottery-game_lottery_bb, .lottery-game_lottery_bc, .lottery-game_lottery_beijing {
+  background: url('../images/lottery-s81307fcd4c.png') no-repeat;
+}
+
+.lottery-game_lottery_actc {
+  background-position: 0 -420px;
+}
+
+.lottery-game_lottery_bb {
+  background-position: 0 0;
+}
+
+.lottery-game_lottery_bc {
+  background-position: 0 -140px;
+}
+
+.lottery-game_lottery_beijing {
+  background-position: 0 -280px;
+}
